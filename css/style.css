@@ -1,0 +1,63 @@
+body {
+    font-family: 'Anaheim', sans-serif;
+    font-size: 1.2em;
+  }
+.outercontainer {
+    background-color: lightgoldenrodyellow;
+    margin: 5px;
+}
+.innercontainer {
+    width: 65%;
+    margin: auto;
+    padding: 25px;
+    border: thin solid #CCC ;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+/* general */
+.feildtitle {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+label {
+    text-transform: capitalize;
+}
+.br {
+    margin: 15px 0;
+}
+/*header*/
+.header .form-header {
+    /*text-align: center;*/
+    display: block;
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.header .first-word {
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+/* form */
+div.sec-two {
+    margin-bottom: 15px;
+}
+textarea {
+    height: 80px;
+    width: 380px;
+}
+
+#submit-button {
+    display: block;
+    width: 200px;
+    height: 32px;
+    margin: 10px auto;
+    padding: 0;
+    background-color: red;
+    color: #fff;
+    font-size: 20px;
+}

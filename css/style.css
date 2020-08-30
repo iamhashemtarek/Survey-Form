@@ -26,6 +26,9 @@ label {
 .br {
     margin: 15px 0;
 }
+feildset {
+    margin: 7px 0;
+}
 /*header*/
 .header .form-header {
     /*text-align: center;*/
